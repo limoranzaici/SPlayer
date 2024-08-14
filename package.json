@@ -1,12 +1,12 @@
 {
-  "name": "splayer",
+  "name": "小默然网易云",
   "version": "2.1.0",
-  "description": "A minimalist music player",
+  "description": "一个简洁的播放器",
   "main": "./out/main/index.js",
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
-  "repository": "github:imsyy/SPlayer",
+  "author": "小默然",
+  "home": "https://music.cxkun.top",
+  "github": "https://github.com/limoranzaici/",
+  "repository": "github:limoranzaici/SPlayer",
   "license": "AGPL-3.0",
   "license-file": "LICENSE",
   "engines": {
