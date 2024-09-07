@@ -1,11 +1,11 @@
 {
-  "name": "小默然网易云",
+  "name": "小默然Music",
   "version": "2.1.0",
   "description": "一个简洁的播放器",
   "main": "./out/main/index.js",
   "author": "小默然",
   "home": "https://music.cxkun.top",
-  "github": "https://github.com/limoranzaici/",
+  "github": "https://music.cxkun.top",
   "repository": "github:limoranzaici/SPlayer",
   "license": "AGPL-3.0",
   "license-file": "LICENSE",
